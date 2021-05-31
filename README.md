@@ -2,8 +2,10 @@
 ## I. Description :
 Project to maintain the translation mod of Age of Empire II into breton.
 
-Diwallit : ret eo d'ur chadenn destenn komañs gant ur " hag echuiñ gant ur ". 
-Ma vank unan anezhe pe ma zo unan ouzhpenn ne yay ket en-dro an treiñ en Brezhoneg.
+## Diwallit : 
+
+	Ret eo d'ur chadenn destenn komañs gant ur " hag echuiñ gant ur ". 
+	Ma vank unan anezhe pe ma zo unan ouzhpenn ne yay ket en-dro an treiñ en Brezhoneg.
 
 ## II. Geriaoueg implijet :
 Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
