@@ -10,7 +10,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 
 ### Améliorations / Teknologiezhioù :
 
-==== Forum / Forom ====
+#### ==== Forum / Forom ====
 
 	Passage à L'Age Féodal / Tremen d'an oadvezh dalc'hel
 	Passage à L'Age des Châteaux / Tremen da oadvezh ar c'hestell
@@ -21,33 +21,33 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 	Tour de Guet / Tour-ged
 	Patrouille de Ville / Patrouilh kêr
 
-==== Moulin / Milin ====
+#### ==== Moulin / Milin ====
 
 	Harnais de Cheval / Harnez marc'h
 	Labourage Lourd / Arat pounner
 	Alternance des Cultures / Treiñ trevadoù
 
-==== Camp de bûcherons / Kamp koata ====
+#### ==== Camp de bûcherons / Kamp koata ====
 
 	Hache à Double Tranchant / Bouc'hal daouduek
 	Scie à Archer / Heskenn gwareg
 	Scie à Deux Bras / Heskenn daou vrec'h
 
-==== Camp de mineurs / Mengleuz ====
+#### ==== Camp de mineurs / Mengleuz ====
 
 	Mine d'Or / Mengleuz aour
 	Puits de Forage d'Or / Puñs toullañ aour
 	Carrières / Mengleuzioù
 	Puits de Forage de Pierre / Puñs toullañ roc'h
 
-==== Marché / Marc’had ====
+#### ==== Marché / Marc’had ====
 
 	Caravane / Karavanenn
 	Frappe de Monnaie / Skeiñ moneiz
 	Banques / Bankoù
 	Guildes / Gildoù
 
-==== Monastère / Manati ====
+#### ==== Monastère / Manati ====
 
 	Rédemption / Daspren
 	Expiation / Damantiñ
@@ -60,7 +60,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 	Imprimerie / Moullerezh
 	Théocratie / Doueveli
 
-==== Université / Skol-veur ====
+#### ==== Université / Skol-veur ====
 
 	Maçonnerie / Mañsonerezh
 	Architecture / Tisavouriezh
@@ -76,31 +76,31 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 	Ingénieurs de Siège / Ijinourien seziz
 	Archières / Toull-gwareg
 
-==== Port / Porzh ====
+#### ==== Port / Porzh ====
 
 	Filets Maillants / Rouedoù mailhek
 	Carénage / Karennañ
 	Cale Sèche / Poull-sec'h
 	Constructeur de Navires / Saver bigi
 
-==== Caserne / Kazarn ====
+#### ==== Caserne / Kazarn ====
 
 	Ravitaillement / Pourvezadur
 	Ecuyers / Flec'h
 	Brasier / Tantad
 
-==== Camp de Tir à l'Arc / Kamp gwaregata ====
+#### ==== Camp de Tir à l'Arc / Kamp gwaregata ====
 
 	Bague de Pouce / Gwalenn veud
 	Tactiques Parthes / Taktikoù partia
 
 
-==== Ecurie / Marchosi ====
+#### ==== Ecurie / Marchosi ====
 
 	Ligne de Sang / Lignez gwad
 	Elevage / Magerezh
 
-==== Forge / Govel ====
+#### ==== Forge / Govel ====
 
 	Empennage / Stuc'hennad
 	Flèche à Poinçon / Bir minaoued
@@ -119,7 +119,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 	Cotte de Mailles Plaquée / Sae-vailhek plakennek
 
 
-==== Château / Kastell ====
+#### ==== Château / Kastell ====
 
 	Palissades / Peulgae
 	Artificiers / Poultrer
@@ -127,7 +127,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 	Espions / Spierien
 	Trahison / Treitouriezh
 
-==== Unique / Dispar ====
+#### ==== Unique / Dispar ====
 
 ==== Aztèques / Azteked ====
 
@@ -318,12 +318,12 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 
 ### Unitées / Unvezioù :
 
-==== Forum/Forom ====
+#### ==== Forum/Forom ====
 
     Villageois/Kouer
     Milice Flamande/Milis Flamank
 	
-==== Caserne/Kazarn ====
+#### ==== Caserne/Kazarn ====
 
     Milicien/Milisian -> Homme d'Arme/Den Armet -> Fantassin à Epée Longue/Klezeier Skañv/Soudard Hir e Gleze-> Fantassin à Epée à 2 mains/Klezeier?/Soudard Kleze-meur? (gw. Claymore)-> Champion/Kampion
     Lancier/Goafer -> Piquier/Speger -> Hallebardier/Halabarder
@@ -331,7 +331,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
     Eclaireur Aigle/Anaoueder Er -> Guerrier aigle/Kader Er -> Guerrier aigle d'élite/Kader Er Gwellañ
     Condottière/Kondotier
 	
-==== Camp de tir à l'arc/Kamp gwaregata ====
+#### ==== Camp de tir à l'arc/Kamp gwaregata ====
 
     Archer/Gwareger -> Arbalétrier/Arbalastrer  -> Fantassin à Arc Lourd/Gwareger Pounner
     Tirailleur/Tennataer Skañv -> Tirailleur d'Elite/Tennataer -> Tirailleur Impérial/Tennataer Impalaerel
@@ -340,14 +340,14 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
     Frondeur/Talmer
     Jinete/Jened -> Jinete d'Elite/Jened Gwellañ
 	
-==== Écurie/Marchosi ====
+#### ==== Écurie/Marchosi ====
     Cavalerie d'éclairage/Marc’heg Anaoud -> Cavalerie Légère/Marc’heg Skañv -> Hussard/Houzard
     Chevalier/Marc’hegig -> Cavalier/Marc’heg-> Paladin/Marc’hekaer?/id.?
     Chameau/Kañvaler -> Chameau Lourd/Kañvaler Pounner -> Chameau Impérial/Kañvaler Impalaerel
     Éléphant de combat/Olifant Kad -> Éléphant de combat d'Elite/Olifant Kad Gwellañ
     Lancier des Steppes/Goafer al Lanneier-Bras -> Lancier des Steppes d'Elite/Goafer al Lanneier-Bras Gwellañ
 	
-==== Atelier de siège/Atalier-seziz ====
+#### ==== Atelier de siège/Atalier-seziz ====
 
     Bélier/Tourter -> Bélier Renforcé/Tourter Kreñv -> Bélier de Siège/Tourter-Seziz
     Mangonneau/Bangounell -> Onagre/Bannerez -> Onagre de Siège/Bannerez-Seziz
@@ -356,16 +356,16 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
     Tour de siège/Tour-Seziz
 	
 	
-==== Monastère/Manati ====
+#### ==== Monastère/Manati ====
 
     Moine/Manac’h
     Missionnaire/Misioner
 	
-==== Marché/Marc’had ====
+#### ==== Marché/Marc’had ====
 
     Charrette de Commerce/Karigell Goñvers
 	
-==== Château/Kastell ====
+#### ==== Château/Kastell ====
 
     Trébuchet/Trebuched
     Bombe/Bombezer
@@ -373,7 +373,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
     Unités uniques/Unvezioù dibar
 	
 	
-==== Port/Porzh ====
+#### ==== Port/Porzh ====
 
     Navire de pêche/Bag Pesketa
     Navire de transport/Bag Treuzdougen
