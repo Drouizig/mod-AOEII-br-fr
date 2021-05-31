@@ -122,7 +122,7 @@
 2506 "Ne genglot ket ar senario-mañ gant an handelv esae."
 2507 "Cheñch ment ar skramm ne c'hallit ket ober en handelv esae."
 2510 "Tournamant liesc'hoarier (8 c'hoarier)"
-2511 "Ar c'hartennoù Divroañ, Lenn ar c'hrater, Delta an Nil hag Inizi ar janglenn ne c'hallont ket bezañ diuzet m'emañ urzhiataerioù o kemer perzh er c'hoariadenn.
+2511 "Ar c'hartennoù Divroañ, Lenn ar c'hrater, Delta an Nil hag Inizi ar janglenn ne c'hallont ket bezañ diuzet m'emañ urzhiataerioù o kemer perzh er c'hoariadenn."
 2512 "An urzhiataer ostiz a implij un handelv disheñvel deus ar c'hoari. An holl implijerien a rank kaout un handelv heñvel deus Age of Empires a-benn mont ha kemer perzh en ur c'hoariadenn lesc'hoarier."
 3001 "Boued a vank."
 3002 "Koat a vank."
@@ -230,7 +230,7 @@
 3109 "Koll a reoc'h ma ne vo ket adkemeret ar monumant dindan %d bloavezh."
 3110 "Kemmet ho peus hoc'h emzalc'h diplomatek gant %s evit Neptu."
 3111 "Kemmet ho peus hoc'h emzalc'h diplomatek gant %s evit Kevredet."
-3112 "Kemmet ho peus hoc'h emzalc'h diplomatek gant %s evit Enebour.""
+3112 "Kemmet ho peus hoc'h emzalc'h diplomatek gant %s evit Enebour."
 3113 "Paeet ho peus un truaj %d aour ennañ da %s."
 3114 "Paeet ho peus un truaj %d koat ennañ da %s."
 3115 "Paeet ho peus un truaj %d bouet ennañ da %s."
@@ -247,7 +247,7 @@
 3126 "Tizh nevez : %d a skeudennoù, %d a c’hreunennoù, %d a zarvoudoù dre dro"
 3127 "Ur saveteadenn a zo bet graet evit an adsevel."
 3128 "Vous ne pouvez pas soigner d'unités dans la Corruption."
-3129 "Ne c'haller ket strollañ... Ne c'heller ket sevel abalamour d'ur skoilh.
+3129 "Ne c'haller ket strollañ... Ne c'heller ket sevel abalamour d'ur skoilh."
 3130 "%s en deus lañset ur groaziadeg betek un enebour. Serjanted a zo troet a-du gant e gaoz !"
 3131 "%s en deus bountet ar peizanted Flamand da gemer an armoù !"
 3132 "%s en deus profet servijoù gopr-soudarded Kouman d'e gevredidi !"
