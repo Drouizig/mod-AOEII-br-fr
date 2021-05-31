@@ -1,13 +1,14 @@
 # mod-AOEII-br-fr
+
 ## I. Description :
 Project to maintain the translation mod of Age of Empire II into breton.
 
-## Diwallit : 
+## II. Diwallit : 
 
 	Ret eo d'ur chadenn destenn komañs gant ur " hag echuiñ gant ur ". 
 	Ma vank unan anezhe pe ma zo unan ouzhpenn ne yay ket en-dro an treiñ en Brezhoneg.
 
-## II. Geriaoueg implijet :
+## III. Geriaoueg implijet :
 Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 
 ### Améliorations / Teknologiezhioù :
