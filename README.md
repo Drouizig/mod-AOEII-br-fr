@@ -105,7 +105,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 
 #### ==== Forge / Govel ====
 
-	Empennage / Stuc'hennad
+	Empennage / Stuc'hennañ
 	Flèche à Poinçon / Bir minaoued
 	Brassard / Brec'henn
 	Armure d'Archer Matelassée / Harnez gwareger matarasennet
@@ -220,7 +220,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 ==== Incas ====
 
 	Fronde des Andes / Talm An Andez
-	Boucliers en Tissu / Skoedoù danvez
+	Boucliers en Tissu / Skoedoù danvez (kinnig : skoedoù gwiadek)
 
 ==== Indiens ====
 
@@ -345,14 +345,14 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 	
 #### ==== Écurie/Marchosi ====
     Cavalerie d'éclairage/Marc’heg Anaoud -> Cavalerie Légère/Marc’heg Skañv -> Hussard/Houzard
-    Chevalier/Marc’hegig -> Cavalier/Marc’heg-> Paladin/Marc’hekaer?/id.?
-    Chameau/Kañvaler -> Chameau Lourd/Kañvaler Pounner -> Chameau Impérial/Kañvaler Impalaerel
+    Chevalier/Marc’hegig -> Cavalier/Marc’heg-> Paladin/Marc’hekaer?/id.? (kinnig : ha perak pas mirout "Paladin" ?)
+    Chameau/Kañvaler -> Chameau Lourd/Kañvaler Pounner -> Chameau Impérial/Kañvaler Impalaerel (chameau = kañval, chamelier = kañvaler)
     Éléphant de combat/Olifant Kad -> Éléphant de combat d'Elite/Olifant Kad Gwellañ
     Lancier des Steppes/Goafer al Lanneier-Bras -> Lancier des Steppes d'Elite/Goafer al Lanneier-Bras Gwellañ
 	
 #### ==== Atelier de siège/Atalier-seziz ====
 
-    Bélier/Tourter -> Bélier Renforcé/Tourter Kreñv -> Bélier de Siège/Tourter-Seziz
+    Bélier/Tourterez -> Bélier Renforcé/Tourterez Greñv -> Bélier de Siège/Tourterez-Seziz
     Mangonneau/Bangounell -> Onagre/Bannerez -> Onagre de Siège/Bannerez-Seziz
     Scorpion/Krug* -> Scorpion Lourd/Krug Pounner
     Canon à bombarde/Kanol Bombezerez
