@@ -105,7 +105,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 
 #### ==== Forge / Govel ====
 
-	Empennage / Stuc'hennad
+	Empennage / Stuc'hennañ
 	Flèche à Poinçon / Bir minaoued
 	Brassard / Brec'henn
 	Armure d'Archer Matelassée / Harnez gwareger matarasennet
