@@ -15,9 +15,9 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 
 #### ==== Forum / Forom ====
 
-	Passage à L'Age Féodal / Tremen d'an oadvezh dalc'hel
+	Passage à L'Age Féodal / Tremen d'an oadvezh dalc'hel (Envel:feodel/dalc’hel neuze?)
 	Passage à L'Age des Châteaux / Tremen da oadvezh ar c'hestell
-	Passage à L'Age Impérial / Tremen d'an oadvezh Impalaerel
+	Passage à L'Age Impérial / Tremen d'an oadvezh Impalaerel (Envel: "o. an impalaerezhioù" a gavan re hir, na c’hwi?)
 	Métier à Tisser / Stern gwiader
 	Brouette / Karigell 
 	Charrette à Bras / Karr-bout
@@ -67,11 +67,11 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 
 	Maçonnerie / Mañsonerezh
 	Architecture / Tisavouriezh
-	Mur Fortifié / Moger kreñvaet
+	Mur Fortifié / Moger kreñvaet (Envel:"greñvaet" kentoc’h?)
 	Balistique / Bannouriezh
 	Tour de Garde / Tour gward
 	Donjon / Tour-meur
-	Projectile en Feu / Bannadell
+	Projectile en Feu / Bannadell entannet
 	Meurtrières / Toull-muntrer
 	Grue à Poulie / Garan pole
 	Chimie / Kimiezh
@@ -95,7 +95,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 #### ==== Camp de Tir à l'Arc / Kamp gwaregata ====
 
 	Bague de Pouce / Gwalenn veud
-	Tactiques Parthes / Taktikoù partia
+	Tactiques Parthes / Taktikoù Partia
 
 
 #### ==== Ecurie / Marchosi ====
@@ -220,7 +220,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 ==== Incas ====
 
 	Fronde des Andes / Talm An Andez
-	Boucliers en Tissu / Skoedoù danvez (kinnig : skoedoù gwiadek)
+	Boucliers en Tissu / Skoedoù danvez (kinnig : skoedoù gwiadek ; Envel:mat eo din)
 
 ==== Indiens ====
 
@@ -250,7 +250,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 ==== Malais ====
 
 	Thalassocratie / Morveli
-	Enrôlement de Force / ENrolaldur dre an nerzh
+	Enrôlement de Force / Enrollañ dre an nerzh (Envel:enep ar youl?bazhyevet?)
 
 ==== Maliens ====
 
@@ -295,7 +295,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 ==== Tatars ====
 
 	Armure de Soie / Harnez seiz
-	Armes de Siège Timuride / Armoù sezis Timourid
+	Armes de Siège Timuride / Armoù seziz Timourid
 
 ==== Teutons ====
 
@@ -345,8 +345,8 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 	
 #### ==== Écurie/Marchosi ====
     Cavalerie d'éclairage/Marc’heg Anaoud -> Cavalerie Légère/Marc’heg Skañv -> Hussard/Houzard
-    Chevalier/Marc’hegig -> Cavalier/Marc’heg-> Paladin/Marc’hekaer?/id.? (kinnig : ha perak pas mirout "Paladin" ?)
-    Chameau/Kañvaler -> Chameau Lourd/Kañvaler Pounner -> Chameau Impérial/Kañvaler Impalaerel (chameau = kañval, chamelier = kañvaler)
+    Chevalier/Marc’hegig -> Cavalier/Marc’heg-> Paladin/Marc’hekaer?/id.? (kinnig : ha perak pas mirout "Paladin" ? Envel : "Paladin" zo mat din)
+    Chameau/Kañvaler -> Chameau Lourd/Kañvaler Pounner -> Chameau Impérial/Kañvaler Impalaerel (chameau = kañval, chamelier = kañvaler Envel : n'on ket sur deus ar pezh a fell dit lâret, mat eo dit pe get ? Soñjet 'm oa ba "Kañvaleger" i'ez 'wit be'añ tost deus "Marc’heger")
     Éléphant de combat/Olifant Kad -> Éléphant de combat d'Elite/Olifant Kad Gwellañ
     Lancier des Steppes/Goafer al Lanneier-Bras -> Lancier des Steppes d'Elite/Goafer al Lanneier-Bras Gwellañ
 	
