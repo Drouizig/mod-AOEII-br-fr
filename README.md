@@ -220,7 +220,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 ==== Incas ====
 
 	Fronde des Andes / Talm An Andez
-	Boucliers en Tissu / Skoedoù danvez
+	Boucliers en Tissu / Skoedoù danvez (kinnig : skoedoù gwiadek)
 
 ==== Indiens ====
 
