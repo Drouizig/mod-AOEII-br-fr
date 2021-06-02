@@ -4710,7 +4710,7 @@
 17324 "Bouc'hal frank"
 17325 "Dreistbeli"
 17326 "Poulser"
-17327 "Bleiz brezel
+17327 "Bleiz brezel"
 17368 "Moger vras"
 17369 "Kistilli"
 17370 "Kaihebodeg"
