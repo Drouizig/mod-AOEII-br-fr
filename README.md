@@ -88,6 +88,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 
 #### ==== Caserne / Kazarn ====
 
+	Pistage / Treseal
 	Ravitaillement / Pourvezadur
 	Ecuyers / Flec'h
 	Brasier / Tantad
