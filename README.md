@@ -171,7 +171,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 ==== Celtes ====
 
 	Citadelle / Gwikadell
-	Fureur Celte / Fulor keltiek
+	Fureur Celte / Fulor kelt
 
 ==== Chinois ====
 
