@@ -393,7 +393,12 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 
 ### Options / Dibarzhioù :
 
-    Partie(s)/C'hoariadenn(où)
-    Scénario(s)/Senario(où)
+    Partie(s)/C'hoariadenn(où)/Partiad(où) (berroc’h eo, ar pezh zo talvoudus ba ur c’hoari, petra eo ho soñj dac’h ?) 
+    Scénario(s)/Senario(où) (Steuñv 'm eus kinnigit met marteze vefe aesoc’h d'o'r gant senario neuze ? s.o. Steuñvenn e Geriadur Preder)
     Performance/Digonusted
     Latence/Enkelez
+	
+	
+## Kaozeal diwar an treiñ :
+
+D'am soñj e vefe mat kât un doare da divizout 'sames diwar an treiñ, mat vefe dit dont ba'n Diskord C’hoarioù video e Brezhoneg Goulven ? Kinnigoù all ? ~~~~Envel
