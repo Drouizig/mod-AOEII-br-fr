@@ -389,3 +389,11 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
     Drakkar/id. -> Drakkar d'élite/Drakkar Gwellañ
     Navire tortue/Lestr Baot -> Navire tortue d'élite/Lestr Baot Gwellañ
     Caravelle/Karavell -> Caravelle d'élite/Karavell Wellañ 
+
+
+### Options / Dibarzhioù :
+
+    Partie(s)/C'hoariadenn(où)
+    Scénario(s)/Senario(où)
+    Performance/Digonusted
+    Latence/Enkelez
