@@ -402,3 +402,5 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 ## Kaozeal diwar an treiñ :
 
 D'am soñj e vefe mat kât un doare da divizout 'sames diwar an treiñ, mat vefe dit dont ba'n Diskord C’hoarioù video e Brezhoneg Goulven ? Kinnigoù all ? ~~~~Envel
+	
+Goulven : Ya, ur menoz mat-tre eo. Resevet eo bet liamm ar saloñs ganin hag ez in ennañ kerkent ha ma c'hallin, kalz aesoc'h e vo giz-se evit eskemm etrezomp hon tri.
