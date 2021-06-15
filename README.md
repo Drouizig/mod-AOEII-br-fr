@@ -346,7 +346,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 	
 #### ==== Écurie/Marchosi ====
     Cavalerie d'éclairage/Marc’heg Anaoud -> Cavalerie Légère/Marc’heg Skañv -> Hussard/Houzard
-    Chevalier/Marc’hegig -> Cavalier/Marc’heg-> Paladin/Marc’hekaer?/id.? (kinnig : ha perak pas mirout "Paladin" ? Envel : "Paladin" zo mat din)
+    Chevalier/Marc’hegig -> Cavalier/Marc’heg-> Paladin/Paladin
     Chameau/Kañvaler -> Chameau Lourd/Kañvaler Pounner -> Chameau Impérial/Kañvaler Impalaerel (chameau = kañval, chamelier = kañvaler Envel : n'on ket sur deus ar pezh a fell dit lâret, mat eo dit pe get ? Soñjet 'm oa ba "Kañvaleger" i'ez 'wit be'añ tost deus "Marc’heger")
     Éléphant de combat/Olifant Kad -> Éléphant de combat d'Elite/Olifant Kad Gwellañ
     Lancier des Steppes/Goafer al Lanneier-Bras -> Lancier des Steppes d'Elite/Goafer al Lanneier-Bras Gwellañ
