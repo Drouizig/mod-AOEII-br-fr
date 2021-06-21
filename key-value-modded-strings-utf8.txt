@@ -17906,7 +17906,7 @@ IDS_STATISTICS_HOURS_AND_SECONDS    		 "%0i eur ha %2i eilenn"
 IDS_STATISTICS_MINUTES_AND_SECONDS 			 "%1i munutenn ha %2i eilenn"
 IDS_STATISTICS_HOURS_MINUTES_AND_SECONDS     "%0i eur, %1i munutenn ha %2i eilenn"
 IDS_GAME_NOTIFICATION_PANEL_DEFEAT	"%s zo bet trec’het"
-IDS_GAME_NOTIFICATION_PANEL_RESIGNED "%s en·he deus dileusket
+IDS_GAME_NOTIFICATION_PANEL_RESIGNED "%s en·he deus dileusket"
 IDS_LOBBY_QUIT_CONFIRM	"Ha sur oc’h e fell deoc’h mont kuit ?"
 IDS_LOBBY_FILE_TRANSFER_CONFIRM	"L'hôte a activé le contenu généré par les utilisateurs, qui n'a pas été vérifié ou consulté par Xbox Game Studios en tant qu'élément du jeu. Vous téléchargez les fichiers suivants à vos risques et périls."
 IDS_LOBBY_FILE_TRANSFER_EXTRA_FILES " et %i autres fichiers."
