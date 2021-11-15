@@ -15,8 +15,8 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 
 #### ==== Forum / Forom ====
 
-	Passage à L'Age Féodal / Tremen d'an oadvezh dalc'hel (Envel:feodel/dalc’hel neuze?)
-	Passage à L'Age des Châteaux / Tremen da oadvezh ar c'hestell
+	Passage à L'Age Féodal / Tremen d'an Oadvezh feodel
+	Passage à L'Age des Châteaux / Tremen da Oadvezh ar c'hestell
 	Passage à L'Age Impérial / Tremen d'an oadvezh Impalaerel (Envel: "o. an impalaerezhioù" a gavan re hir, na c’hwi?)
 	Métier à Tisser / Stern gwiader
 	Brouette / Karigell 
@@ -71,11 +71,11 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 	Balistique / Bannouriezh
 	Tour de Garde / Tour gward
 	Donjon / Tour-meur
-	Projectile en Feu / Bannadell entannet
+	Projectile en Feu / Bannadelloù entannet
 	Meurtrières / Toull-muntrer
 	Grue à Poulie / Garan pole
 	Chimie / Kimiezh
-	Tour de Bombarde / Tour bombezerez
+	Tour de Bombarde / Tour bombezenniñ
 	Ingénieurs de Siège / Ijinourien seziz
 	Archières / Toull-gwareg
 
@@ -160,7 +160,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 
 ==== Bulgares ====
 
-	Etriers / 	Stleugoù
+	Etriers / Stleugoù
 	Bagains
 
 ==== Byzantins ====
@@ -320,14 +320,14 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 
 
 
-### Unitées / Unvezioù :
+### Unitées / Unanennoù
 
 #### ==== Forum/Forom ====
 
-    Villageois/Kouer
-    Milice Flamande/Milis Flamank
+    Villageois / Kouer
+    Milice Flamande / Milis Flamank
 	
-#### ==== Caserne/Kazarn ====
+#### ==== Caserne / Kazarn ====
 
     Milicien/Milisian -> Homme d'Arme/Den Armet -> Fantassin à Epée Longue/Klezeier Skañv/Soudard Hir e Gleze-> Fantassin à Epée à 2 mains/Klezeier?/Soudard Kleze-meur? (gw. Claymore)-> Champion/Kampion
     Lancier/Goafer -> Piquier/Speger -> Hallebardier/Halabarder
