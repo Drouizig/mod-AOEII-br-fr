@@ -17,7 +17,7 @@ Amañ dindan e kavfet geriaoueg ar c’hoari en Brezhoneg hag en Galleg :
 
 	Passage à L'Age Féodal / Tremen d'an Oadvezh feodel
 	Passage à L'Age des Châteaux / Tremen da Oadvezh ar c'hestell
-	Passage à L'Age Impérial / Tremen d'an oadvezh Impalaerel (Envel: "o. an impalaerezhioù" a gavan re hir, na c’hwi?)
+	Passage à L'Age Impérial / Tremen da Oadvezh an impalaerezhioù
 	Métier à Tisser / Stern gwiader
 	Brouette / Karigell 
 	Charrette à Bras / Karr-bout
